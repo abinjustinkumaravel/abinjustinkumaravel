@@ -2,6 +2,7 @@
 - 👀 I’m interested in Enterpreneship
 - 🌱 I’m currently learning Business Development
 - 💞️ I’m looking to collaborate on Opensource
+- I'm good at python
 
 
 <!---
