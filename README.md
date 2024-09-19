@@ -20,6 +20,7 @@
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=abinjustinkumaravel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
 ![Abin Justinkumarvel's GitHub stats](https://github-readme-stats.vercel.app/api?username=abinjustinkumaravel&show_icons=true&theme=radical) 
 ![Abin Justinkumarvel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abinjustinkumaravel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
@@ -29,7 +30,7 @@
  <br>
  <br>
 <br clear="both">
-<div align="center">
+<div align="left">
   
 <h3>🚀 Connect with Me:<h3>
  <br>
@@ -47,9 +48,7 @@
 
 <br clear="both">
 
-<h3 align="center">🛠 Language and tools</h3>
-
-###
+<h3 align="Left">🛠 Language and tools</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
@@ -78,10 +77,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
-
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abinjustinkumaravel.abinjustinkumaravel&"  />
-</div>
-
-<br>
