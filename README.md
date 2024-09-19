@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abinjustinkumaravel&label=Profile%20views&color=0e75b6&style=flat" alt="abinjustinkumaravel" /> </p>
 
-[![Abin Justinkumaravel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abinjustinkumaravel&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abin Justinkumaravel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abinjustinkumaravel&bg_color=0000&color=ffff&line=0FFF50&point=0FFF50&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  <br>
  <br>
 
