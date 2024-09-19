@@ -5,9 +5,9 @@
 - I'm good at python
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abinjustikumaravel)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abinjustinkumaravel&show_icons=true&theme=radical)
 
 <!---
 abinjustinkumaravel/abinjustinkumaravel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
