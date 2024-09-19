@@ -9,22 +9,25 @@
 
 [![Abin Justinkumaravel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abinjustinkumaravel&bg_color=0000&color=ffff&line=0FFF50&point=0FFF50&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/abinjustinkumaravel/count.svg?"  />
 </div>
  <br>
  <br>
 
- 
+ ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abinjustinkumaravel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=abinjustinkumaravel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+![Abin Justinkumarvel's GitHub stats](https://github-readme-stats.vercel.app/api?username=abinjustinkumaravel&show_icons=true&theme=radical) 
+![Abin Justinkumarvel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abinjustinkumaravel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+
 ## 🏆 GitHub Trophies
 
   ![](https://github-profile-trophy.vercel.app/?username=abinjustinkumaravel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
  <br>
  <br>
-
-
 <br clear="both">
 <div align="center">
   
@@ -82,24 +85,3 @@
 </div>
 
 <br>
-
-### 📊 Abin Justinkumaravel Contribution Stats:
-<br>
-
-
-![Abin Justinkumarvel's GitHub stats](https://github-readme-stats.vercel.app/api?username=abinjustinkumaravel&show_icons=true&theme=radical) 
-
-<br>
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=abinjustinkumaravel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-<br>
-
-![Abin Justinkumarvel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abinjustinkumaravel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-
- <br>
- <br>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abinjustinkumaravel&limit=5&theme=dark&combine_all_yearly_contributions=true)
