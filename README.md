@@ -18,7 +18,7 @@
  ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abinjustinkumaravel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=abinjustinkumaravel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=abinjustinkumaravel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ![Abin Justinkumarvel's GitHub stats](https://github-readme-stats.vercel.app/api?username=abinjustinkumaravel&show_icons=true&theme=radical) 
@@ -42,13 +42,10 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
- <br>
- <br>
-
 
 <br clear="both">
 
-<h3 align="Left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
