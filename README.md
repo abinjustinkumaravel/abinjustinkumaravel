@@ -1,29 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abin JustinKumaravel</h1>
-
-
-
-<div align="center">
-  <img height="150" src="assets/me.jpg"/>
-</div>
 <h3 align="center">Abin Justinkumaravel</h3>
-
-###
- <br>
- <br>
-
-###
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
-
-###
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abinjustinkumaravel&label=Profile%20views&color=0e75b6&style=flat" alt="abinjustinkumaravel" /> </p>
 
 [![Abin Justinkumaravel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abinjustinkumaravel&bg_color=0000&color=ffff&line=0FFF50&point=0FFF50&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <div align="center">
