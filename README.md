@@ -30,7 +30,7 @@
  <br>
  <br>
  
-## 🏵️ HctoberFest Badge
+## 🛡 HctoberFest Badge
  [![An image of @abinjustinkumaravel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abinjustinkumaravel)](https://holopin.io/@abinjustinkumaravel)
   <br>
  <br>
