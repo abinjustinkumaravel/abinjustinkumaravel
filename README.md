@@ -15,6 +15,12 @@
  <br>
  <br>
 
+
+ <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="abin-justin-kumaravel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/abin-justin-kumaravel?trk=profile-badge">Abin Justin Kumaravel</a></div>
+              
+
  ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abinjustinkumaravel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <div align="left">
